@@ -1,4 +1,4 @@
-# NumPy and Pandas: Matrix Operations, Descriptive Statistics & Data Cleaning
+# NumPy and Pandas: Matrix Operations, Descriptive Statistics & Data Cleaning 
 
 ## 1. Project Overview 
 
